@@ -1,0 +1,8 @@
+streamlit
+streamlit-chat
+streamlit-webrtc
+cohere
+python-dotenv
+PyPDF2
+pydub
+SpeechRecognition
